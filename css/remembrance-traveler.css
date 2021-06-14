@@ -1,0 +1,10 @@
+.col-lg-4 {
+	display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+}
+
+.team-member {
+	margin: 20px auto;
+	text-align: center;
+}
